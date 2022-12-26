@@ -1,0 +1,15 @@
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/09This/bin/Debug/net7.0/09This
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/09This/bin/Debug/net7.0/09This.deps.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/09This/bin/Debug/net7.0/09This.runtimeconfig.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/09This/bin/Debug/net7.0/09This.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/09This/bin/Debug/net7.0/09This.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/09This/obj/Debug/net7.0/09This.csproj.AssemblyReference.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/09This/obj/Debug/net7.0/09This.GeneratedMSBuildEditorConfig.editorconfig
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/09This/obj/Debug/net7.0/09This.AssemblyInfoInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/09This/obj/Debug/net7.0/09This.AssemblyInfo.cs
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/09This/obj/Debug/net7.0/09This.csproj.CoreCompileInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/09This/obj/Debug/net7.0/09This.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/09This/obj/Debug/net7.0/refint/09This.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/09This/obj/Debug/net7.0/09This.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/09This/obj/Debug/net7.0/09This.genruntimeconfig.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/09This/obj/Debug/net7.0/ref/09This.dll

@@ -1,0 +1,15 @@
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/10Herança/obj/Debug/net7.0/10Herança.csproj.AssemblyReference.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/10Herança/obj/Debug/net7.0/10Herança.GeneratedMSBuildEditorConfig.editorconfig
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/10Herança/obj/Debug/net7.0/10Herança.AssemblyInfoInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/10Herança/obj/Debug/net7.0/10Herança.AssemblyInfo.cs
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/10Herança/obj/Debug/net7.0/10Herança.csproj.CoreCompileInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/10Herança/bin/Debug/net7.0/10Herança
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/10Herança/bin/Debug/net7.0/10Herança.deps.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/10Herança/bin/Debug/net7.0/10Herança.runtimeconfig.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/10Herança/bin/Debug/net7.0/10Herança.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/10Herança/bin/Debug/net7.0/10Herança.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/10Herança/obj/Debug/net7.0/10Herança.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/10Herança/obj/Debug/net7.0/refint/10Herança.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/10Herança/obj/Debug/net7.0/10Herança.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/10Herança/obj/Debug/net7.0/10Herança.genruntimeconfig.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/10Herança/obj/Debug/net7.0/ref/10Herança.dll

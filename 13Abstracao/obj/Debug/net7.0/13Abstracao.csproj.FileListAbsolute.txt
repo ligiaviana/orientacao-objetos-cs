@@ -1,0 +1,15 @@
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/13Abstracao/bin/Debug/net7.0/13Abstracao
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/13Abstracao/bin/Debug/net7.0/13Abstracao.deps.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/13Abstracao/bin/Debug/net7.0/13Abstracao.runtimeconfig.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/13Abstracao/bin/Debug/net7.0/13Abstracao.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/13Abstracao/bin/Debug/net7.0/13Abstracao.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/13Abstracao/obj/Debug/net7.0/13Abstracao.csproj.AssemblyReference.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/13Abstracao/obj/Debug/net7.0/13Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/13Abstracao/obj/Debug/net7.0/13Abstracao.AssemblyInfoInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/13Abstracao/obj/Debug/net7.0/13Abstracao.AssemblyInfo.cs
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/13Abstracao/obj/Debug/net7.0/13Abstracao.csproj.CoreCompileInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/13Abstracao/obj/Debug/net7.0/13Abstracao.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/13Abstracao/obj/Debug/net7.0/refint/13Abstracao.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/13Abstracao/obj/Debug/net7.0/13Abstracao.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/13Abstracao/obj/Debug/net7.0/13Abstracao.genruntimeconfig.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/13Abstracao/obj/Debug/net7.0/ref/13Abstracao.dll

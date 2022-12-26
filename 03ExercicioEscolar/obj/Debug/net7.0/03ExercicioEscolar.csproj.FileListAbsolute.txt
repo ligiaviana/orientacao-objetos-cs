@@ -1,0 +1,15 @@
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/03ExercicioEscolar/bin/Debug/net7.0/03ExercicioEscolar
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/03ExercicioEscolar/bin/Debug/net7.0/03ExercicioEscolar.deps.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/03ExercicioEscolar/bin/Debug/net7.0/03ExercicioEscolar.runtimeconfig.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/03ExercicioEscolar/bin/Debug/net7.0/03ExercicioEscolar.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/03ExercicioEscolar/bin/Debug/net7.0/03ExercicioEscolar.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/03ExercicioEscolar/obj/Debug/net7.0/03ExercicioEscolar.csproj.AssemblyReference.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/03ExercicioEscolar/obj/Debug/net7.0/03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/03ExercicioEscolar/obj/Debug/net7.0/03ExercicioEscolar.AssemblyInfoInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/03ExercicioEscolar/obj/Debug/net7.0/03ExercicioEscolar.AssemblyInfo.cs
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/03ExercicioEscolar/obj/Debug/net7.0/03ExercicioEscolar.csproj.CoreCompileInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/03ExercicioEscolar/obj/Debug/net7.0/03ExercicioEscolar.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/03ExercicioEscolar/obj/Debug/net7.0/refint/03ExercicioEscolar.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/03ExercicioEscolar/obj/Debug/net7.0/03ExercicioEscolar.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/03ExercicioEscolar/obj/Debug/net7.0/03ExercicioEscolar.genruntimeconfig.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/03ExercicioEscolar/obj/Debug/net7.0/ref/03ExercicioEscolar.dll

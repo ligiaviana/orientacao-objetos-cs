@@ -1,0 +1,15 @@
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/07Construtor/bin/Debug/net7.0/07Construtor
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/07Construtor/bin/Debug/net7.0/07Construtor.deps.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/07Construtor/bin/Debug/net7.0/07Construtor.runtimeconfig.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/07Construtor/bin/Debug/net7.0/07Construtor.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/07Construtor/bin/Debug/net7.0/07Construtor.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/07Construtor/obj/Debug/net7.0/07Construtor.csproj.AssemblyReference.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/07Construtor/obj/Debug/net7.0/07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/07Construtor/obj/Debug/net7.0/07Construtor.AssemblyInfoInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/07Construtor/obj/Debug/net7.0/07Construtor.AssemblyInfo.cs
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/07Construtor/obj/Debug/net7.0/07Construtor.csproj.CoreCompileInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/07Construtor/obj/Debug/net7.0/07Construtor.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/07Construtor/obj/Debug/net7.0/refint/07Construtor.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/07Construtor/obj/Debug/net7.0/07Construtor.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/07Construtor/obj/Debug/net7.0/07Construtor.genruntimeconfig.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/07Construtor/obj/Debug/net7.0/ref/07Construtor.dll

@@ -1,0 +1,15 @@
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/02Métodos/obj/Debug/net7.0/02Métodos.csproj.AssemblyReference.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/02Métodos/obj/Debug/net7.0/02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/02Métodos/obj/Debug/net7.0/02Métodos.AssemblyInfoInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/02Métodos/obj/Debug/net7.0/02Métodos.AssemblyInfo.cs
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/02Métodos/obj/Debug/net7.0/02Métodos.csproj.CoreCompileInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/02Métodos/bin/Debug/net7.0/02Métodos
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/02Métodos/bin/Debug/net7.0/02Métodos.deps.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/02Métodos/bin/Debug/net7.0/02Métodos.runtimeconfig.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/02Métodos/bin/Debug/net7.0/02Métodos.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/02Métodos/bin/Debug/net7.0/02Métodos.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/02Métodos/obj/Debug/net7.0/02Métodos.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/02Métodos/obj/Debug/net7.0/refint/02Métodos.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/02Métodos/obj/Debug/net7.0/02Métodos.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/02Métodos/obj/Debug/net7.0/02Métodos.genruntimeconfig.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/02Métodos/obj/Debug/net7.0/ref/02Métodos.dll

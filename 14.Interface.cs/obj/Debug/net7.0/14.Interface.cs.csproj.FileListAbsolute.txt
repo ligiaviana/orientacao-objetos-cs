@@ -1,0 +1,15 @@
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/14.Interface.cs/obj/Debug/net7.0/14.Interface.cs.csproj.AssemblyReference.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/14.Interface.cs/obj/Debug/net7.0/14.Interface.cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/14.Interface.cs/obj/Debug/net7.0/14.Interface.cs.AssemblyInfoInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/14.Interface.cs/obj/Debug/net7.0/14.Interface.cs.AssemblyInfo.cs
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/14.Interface.cs/obj/Debug/net7.0/14.Interface.cs.csproj.CoreCompileInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/14.Interface.cs/bin/Debug/net7.0/14.Interface.cs
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/14.Interface.cs/bin/Debug/net7.0/14.Interface.cs.deps.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/14.Interface.cs/bin/Debug/net7.0/14.Interface.cs.runtimeconfig.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/14.Interface.cs/bin/Debug/net7.0/14.Interface.cs.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/14.Interface.cs/bin/Debug/net7.0/14.Interface.cs.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/14.Interface.cs/obj/Debug/net7.0/14.Interface.cs.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/14.Interface.cs/obj/Debug/net7.0/refint/14.Interface.cs.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/14.Interface.cs/obj/Debug/net7.0/14.Interface.cs.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/14.Interface.cs/obj/Debug/net7.0/14.Interface.cs.genruntimeconfig.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/14.Interface.cs/obj/Debug/net7.0/ref/14.Interface.cs.dll

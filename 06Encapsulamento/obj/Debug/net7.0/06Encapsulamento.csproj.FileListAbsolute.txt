@@ -1,0 +1,15 @@
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/06Encapsulamento/obj/Debug/net7.0/06Encapsulamento.csproj.AssemblyReference.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/06Encapsulamento/obj/Debug/net7.0/06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/06Encapsulamento/obj/Debug/net7.0/06Encapsulamento.AssemblyInfoInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/06Encapsulamento/obj/Debug/net7.0/06Encapsulamento.AssemblyInfo.cs
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/06Encapsulamento/obj/Debug/net7.0/06Encapsulamento.csproj.CoreCompileInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/06Encapsulamento/bin/Debug/net7.0/06Encapsulamento
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/06Encapsulamento/bin/Debug/net7.0/06Encapsulamento.deps.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/06Encapsulamento/bin/Debug/net7.0/06Encapsulamento.runtimeconfig.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/06Encapsulamento/bin/Debug/net7.0/06Encapsulamento.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/06Encapsulamento/bin/Debug/net7.0/06Encapsulamento.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/06Encapsulamento/obj/Debug/net7.0/06Encapsulamento.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/06Encapsulamento/obj/Debug/net7.0/refint/06Encapsulamento.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/06Encapsulamento/obj/Debug/net7.0/06Encapsulamento.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/06Encapsulamento/obj/Debug/net7.0/06Encapsulamento.genruntimeconfig.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/06Encapsulamento/obj/Debug/net7.0/ref/06Encapsulamento.dll

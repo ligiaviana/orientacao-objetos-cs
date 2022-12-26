@@ -1,0 +1,15 @@
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/05Acesso/bin/Debug/net7.0/05Acesso
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/05Acesso/bin/Debug/net7.0/05Acesso.deps.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/05Acesso/bin/Debug/net7.0/05Acesso.runtimeconfig.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/05Acesso/bin/Debug/net7.0/05Acesso.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/05Acesso/bin/Debug/net7.0/05Acesso.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/05Acesso/obj/Debug/net7.0/05Acesso.csproj.AssemblyReference.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/05Acesso/obj/Debug/net7.0/05Acesso.GeneratedMSBuildEditorConfig.editorconfig
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/05Acesso/obj/Debug/net7.0/05Acesso.AssemblyInfoInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/05Acesso/obj/Debug/net7.0/05Acesso.AssemblyInfo.cs
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/05Acesso/obj/Debug/net7.0/05Acesso.csproj.CoreCompileInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/05Acesso/obj/Debug/net7.0/05Acesso.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/05Acesso/obj/Debug/net7.0/refint/05Acesso.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/05Acesso/obj/Debug/net7.0/05Acesso.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/05Acesso/obj/Debug/net7.0/05Acesso.genruntimeconfig.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/05Acesso/obj/Debug/net7.0/ref/05Acesso.dll

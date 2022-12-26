@@ -1,0 +1,15 @@
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/08GetSet/obj/Debug/net7.0/08GetSet.csproj.AssemblyReference.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/08GetSet/obj/Debug/net7.0/08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/08GetSet/obj/Debug/net7.0/08GetSet.AssemblyInfoInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/08GetSet/obj/Debug/net7.0/08GetSet.AssemblyInfo.cs
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/08GetSet/obj/Debug/net7.0/08GetSet.csproj.CoreCompileInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/08GetSet/bin/Debug/net7.0/08GetSet
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/08GetSet/bin/Debug/net7.0/08GetSet.deps.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/08GetSet/bin/Debug/net7.0/08GetSet.runtimeconfig.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/08GetSet/bin/Debug/net7.0/08GetSet.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/08GetSet/bin/Debug/net7.0/08GetSet.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/08GetSet/obj/Debug/net7.0/08GetSet.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/08GetSet/obj/Debug/net7.0/refint/08GetSet.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/08GetSet/obj/Debug/net7.0/08GetSet.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/08GetSet/obj/Debug/net7.0/08GetSet.genruntimeconfig.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/08GetSet/obj/Debug/net7.0/ref/08GetSet.dll

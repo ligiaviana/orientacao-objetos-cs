@@ -1,0 +1,15 @@
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/12Estatico.cs/obj/Debug/net7.0/12Estatico.cs.csproj.AssemblyReference.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/12Estatico.cs/obj/Debug/net7.0/12Estatico.cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/12Estatico.cs/obj/Debug/net7.0/12Estatico.cs.AssemblyInfoInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/12Estatico.cs/obj/Debug/net7.0/12Estatico.cs.AssemblyInfo.cs
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/12Estatico.cs/obj/Debug/net7.0/12Estatico.cs.csproj.CoreCompileInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/12Estatico.cs/bin/Debug/net7.0/12Estatico.cs
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/12Estatico.cs/bin/Debug/net7.0/12Estatico.cs.deps.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/12Estatico.cs/bin/Debug/net7.0/12Estatico.cs.runtimeconfig.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/12Estatico.cs/bin/Debug/net7.0/12Estatico.cs.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/12Estatico.cs/bin/Debug/net7.0/12Estatico.cs.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/12Estatico.cs/obj/Debug/net7.0/12Estatico.cs.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/12Estatico.cs/obj/Debug/net7.0/refint/12Estatico.cs.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/12Estatico.cs/obj/Debug/net7.0/12Estatico.cs.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/12Estatico.cs/obj/Debug/net7.0/12Estatico.cs.genruntimeconfig.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/12Estatico.cs/obj/Debug/net7.0/ref/12Estatico.cs.dll

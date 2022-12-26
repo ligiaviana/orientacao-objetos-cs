@@ -1,0 +1,15 @@
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/01Conceitos/bin/Debug/net7.0/01Conceitos
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/01Conceitos/bin/Debug/net7.0/01Conceitos.deps.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/01Conceitos/bin/Debug/net7.0/01Conceitos.runtimeconfig.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/01Conceitos/bin/Debug/net7.0/01Conceitos.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/01Conceitos/bin/Debug/net7.0/01Conceitos.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/01Conceitos/obj/Debug/net7.0/01Conceitos.csproj.AssemblyReference.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/01Conceitos/obj/Debug/net7.0/01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/01Conceitos/obj/Debug/net7.0/01Conceitos.AssemblyInfoInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/01Conceitos/obj/Debug/net7.0/01Conceitos.AssemblyInfo.cs
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/01Conceitos/obj/Debug/net7.0/01Conceitos.csproj.CoreCompileInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/01Conceitos/obj/Debug/net7.0/01Conceitos.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/01Conceitos/obj/Debug/net7.0/refint/01Conceitos.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/01Conceitos/obj/Debug/net7.0/01Conceitos.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/01Conceitos/obj/Debug/net7.0/01Conceitos.genruntimeconfig.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/01Conceitos/obj/Debug/net7.0/ref/01Conceitos.dll

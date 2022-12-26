@@ -1,0 +1,15 @@
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.csproj.AssemblyReference.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.AssemblyInfoInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.AssemblyInfo.cs
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.csproj.CoreCompileInputs.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/04ExercicioIMC/bin/Debug/net7.0/04ExercicioIMC
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/04ExercicioIMC/bin/Debug/net7.0/04ExercicioIMC.deps.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/04ExercicioIMC/bin/Debug/net7.0/04ExercicioIMC.runtimeconfig.json
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/04ExercicioIMC/bin/Debug/net7.0/04ExercicioIMC.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/04ExercicioIMC/bin/Debug/net7.0/04ExercicioIMC.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/04ExercicioIMC/obj/Debug/net7.0/refint/04ExercicioIMC.dll
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.pdb
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.genruntimeconfig.cache
+/home/ligiaazevedo/Área de Trabalho/Orientação a Objetos/04ExercicioIMC/obj/Debug/net7.0/ref/04ExercicioIMC.dll
